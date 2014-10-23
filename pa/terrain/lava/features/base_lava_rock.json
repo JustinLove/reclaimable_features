@@ -7,6 +7,6 @@
     "damage": 4,
     "damage_radius": 20,
     "resistance": 200,
-    "spread_chance": 0.09
+    "spread_chance": 0.07
   }
 }

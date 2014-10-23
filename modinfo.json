@@ -2,12 +2,12 @@
   "author": "wondible",
   "build": "73939",
   "context": "server",
-  "date": "2014/10/21",
+  "date": "2014/10/22",
   "description": "Make rocks and metal bits reclaimable.",
   "display_name": "Reclaimable Features",
-  "forum": null,
+  "forum": "https://forums.uberent.com/threads/rel-server-reclaimable-features.65453/",
   "identifier": "com.wondible.pa.reclaimable_features",
   "signature": "not yet implemented",
-  "version": "0.1.0"
+  "version": "1.0.0"
 }
 
