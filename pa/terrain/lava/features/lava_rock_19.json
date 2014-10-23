@@ -1,0 +1,15 @@
+{
+  "base_spec": "/pa/terrain/generic/base_feature.json",
+  "model": {
+    "filename": "/pa/terrain/lava/fbx/lava_rock_19.papa"
+  },
+  "max_health": 25,
+  "metal_value": 2500,
+  "burnable": {
+    "burn_duration": 30,
+    "damage": 4,
+    "damage_radius": 20,
+    "resistance": 200,
+    "spread_chance": 0.09
+  }
+}

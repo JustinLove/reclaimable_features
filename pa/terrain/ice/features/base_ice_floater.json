@@ -1,0 +1,10 @@
+{
+  "base_spec": "/pa/terrain/generic/base_feature.json",
+  "burnable": {
+    "burn_duration": 0,
+    "damage": 0,
+    "damage_radius": 0,
+    "resistance": 1,
+    "spread_chance": 0
+  }
+}
