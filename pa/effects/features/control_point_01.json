@@ -2,9 +2,9 @@
   "base_spec": "/pa/terrain/generic/base_feature.json",
   "show_strategic_icon": true,
   "placement_size": [
-    20,
-    16,
-    27
+    100,
+    170,
+    100
   ],
   "model": {
     "filename": "/pa/effects/fbx/control_point_01.papa"
