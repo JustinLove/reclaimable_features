@@ -1,4 +1,7 @@
 {
+  "articles": {
+    "Reclaimable Features": "coui://com.wondible.pa.reclaimable_features/reclaimable_features.html"
+  },
   "topics": {
     "reclaimable features": "Make rocks and metal bits reclaimable. (Use area reclaim.)",
     "nolava": "Lava planets don't have features."
