@@ -1,3 +1,7 @@
+## 1.1.1
+
+- Update help article for 82293
+
 ## 1.1.0
 
 - Support Server Mod Help Chat
